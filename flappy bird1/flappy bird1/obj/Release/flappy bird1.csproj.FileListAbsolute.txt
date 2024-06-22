@@ -1,0 +1,12 @@
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\bin\Release\flappy bird1.exe.config
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\bin\Release\flappy bird1.exe
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\bin\Release\flappy bird1.pdb
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\obj\Release\flappy bird1.csproj.AssemblyReference.cache
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\obj\Release\flappy_bird1.Form1.resources
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\obj\Release\flappy_bird1.Form2.resources
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\obj\Release\flappy_bird1.Form4.resources
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\obj\Release\flappy_bird1.Properties.Resources.resources
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\obj\Release\flappy bird1.csproj.GenerateResource.cache
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\obj\Release\flappy bird1.csproj.CoreCompileInputs.cache
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\obj\Release\flappy bird1.exe
+D:\a.1s4.szrr\10.sınıf C#\flappy bird\flappy bird1\flappy bird1\obj\Release\flappy bird1.pdb
